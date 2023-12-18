@@ -7,8 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-resrouces" />
-        <module name="spring-resource" />
         <module name="spring-resource-resourceLoader" />
+        <module name="spring-resource-resourcePatternResolver" />
+        <module name="spring-resource" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

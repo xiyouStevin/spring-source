@@ -12,6 +12,7 @@
         <module>spring-resources</module>
         <module>spring-resources/spring-resource</module>
         <module>spring-resources/spring-resource-resourceLoader</module>
+        <module>spring-resources/spring-resource-resourcePatternResolver</module>
     </modules>
 
     <properties>
