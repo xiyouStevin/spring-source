@@ -4,6 +4,8 @@ import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.core.io.support.ResourcePatternResolver;
 
+import java.math.BigDecimal;
+
 /**
  * @author: Steven
  * @create: 2023-12-18 17:41
@@ -23,4 +25,5 @@ public class ResourcePatternResolverDemo {
             System.out.println("文件路径 = " + resource.getFilename());
         }
     }
+
 }
