@@ -9,9 +9,9 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/spring-resource-resourceLoader/pom.xml" />
         <option value="$PROJECT_DIR$/spring-resource/pom.xml" />
         <option value="$PROJECT_DIR$/spring-resource/spring-resource-documentLoader/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-resources/pom.xml" />
         <option value="$PROJECT_DIR$/spring-resources/untitled/pom.xml" />
         <option value="$PROJECT_DIR$/spring-sources/pom.xml" />
         <option value="$PROJECT_DIR$/srping-resource/pom.xml" />

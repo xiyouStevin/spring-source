@@ -6,13 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-resrouces" />
+        <module name="spring-resource-resourceLoader" />
+        <module name="spring-resource-documentLoader" />
+        <module name="spring-resource-resourcePatternResolver" />
         <module name="spring-resource" />
-        <module name="spring-sources" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-resouce" target="8" />
-      <module name="spring-resource-documentLoader" target="8" />
+      <module name="spring-resources" target="8" />
       <module name="sring-resource" target="8" />
       <module name="srping-resource" target="8" />
       <module name="untitled" target="8" />
