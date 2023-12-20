@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -9,6 +10,7 @@
         <module name="spring-resrouces" />
         <module name="spring-resource-resourceLoader" />
         <module name="spring-resource-documentLoader" />
+        <module name="spring-metadata-metadataReader" />
         <module name="spring-resource-resourcePatternResolver" />
         <module name="spring-resource" />
       </profile>

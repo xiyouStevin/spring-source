@@ -14,6 +14,7 @@
         <module>spring-resources/spring-resource-resourceLoader</module>
         <module>spring-resources/spring-resource-resourcePatternResolver</module>
         <module>spring-resources/spring-resource-documentLoader</module>
+        <module>spring-metadata</module>
     </modules>
 
     <properties>
